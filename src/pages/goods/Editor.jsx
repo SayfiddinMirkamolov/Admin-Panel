@@ -71,7 +71,7 @@ const Editor = ({ data }) => {
       {isLoading ? (
         <div className="loading_content">
           <div className="loadingio-spinner-spin-cdoma8r7xbp">
-            <div className="ldio-5gvrc5xa85c">
+            <div className="loadingio">
               <div>
                 <div></div>
               </div>
@@ -127,7 +127,7 @@ const Editor = ({ data }) => {
                   <label htmlFor="">
                     Название <span>*</span>
                   </label>
-                  <input type="number" required />
+                  <input type="text" required />
                   <div className="middle">
                     <div className="texts">
                       <label htmlFor="">
