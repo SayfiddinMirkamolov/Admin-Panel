@@ -71,7 +71,7 @@ const Editor = ({ data }) => {
       {isLoading ? (
         <div className="loading_content">
           <div className="loadingio-spinner-spin-cdoma8r7xbp">
-            <div className="loadingio">
+            <div className="ldio-5gvrc5xa85c">
               <div>
                 <div></div>
               </div>
